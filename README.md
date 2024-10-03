@@ -1,6 +1,4 @@
-- 👋 Hi, I’m sufiyan ansari
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning Data Stracture & Algorithems using python 
+
 
 
 <!---

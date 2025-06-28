@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansari Sufiyan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **react.js**
+-  🌱 I’m currently learning **react.js**
+-  💬 Ask me about **javescript, react.js**
+-  📫 How to reach me **sufiyaan7890@gmail.com**
 
-- linkedin: [https://www.linkedin.com/in/sufiyan-ansari-62b070349/](https://www.linkedin.com/in/sufiyan-ansari-62b070349/)
+<h4>- linkedin: [https://www.linkedin.com/in/sufiyan-ansari-62b070349/](https://www.linkedin.com/in/sufiyan-ansari-62b070349/)</h4>
 
-- 💬 Ask me about **javescript, react.js**
 
-- 📫 How to reach me **sufiyaan7890@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Paste App(Advance note pad) using React.js<br>👯 I’m looking to collaborate on Full Stack project<br>🤝 I’m looking for help with Project building<br>🌱 I’m currently learning React.js<br>💬 Ask me about: I am currently focused on learning full-stack web development using the MERN stack, with a strong emphasis on React.js and Node.js. My main goal is to enhance my skills by building practical projects and continuously improving through consistent self-practice and learning.
+🔭 I’m currently working on Paste App(Advance note pad) using React.js<br>👯 I’m looking to collaborate on Full Stack project<br>🤝 I’m looking for help with Project building<br>🌱 I’m currently learning Express.js<br>💬 Ask me about: I am currently focused on learning full-stack web development using the MERN stack, with a strong emphasis on React.js and Node.js. My main goal is to enhance my skills by building practical projects and continuously improving through consistent self-practice and learning.
 
 
 ## 🌐 Socials:
